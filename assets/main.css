@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /** Reset some basic elements */
 * { margin: 0; font-family: inherit; }
 
@@ -13,7 +14,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; margin-top: 30px; margin-bottom: 30px; box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5); }
+img { max-width: 100%; /*vertical-align: middle; */ margin-top: 30px; margin-bottom: 30px; box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5); width: 80%; margin-right: auto; margin-left: auto; display: block; }
 
 /** Figures */
 figure > img { display: block; }
@@ -27,6 +28,14 @@ li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+
+h1 { padding: 0.25em 0.5em; /*上下 左右の余白*/ color: #494949; /*文字色*/ background: transparent; /*背景透明に*/ border-left: solid 5px #7db4e6; /*左線*/ }
+
+h2 { padding: 0.1em 0.5em; color: #3f3f3f; /* background: #eef; */ border-left: solid 5px #7db4e6; border-bottom: solid 3px #d7d7d7; }
+
+h4 { border-bottom: solid 3px #cce4ff; position: relative; }
+
+h4:after { position: absolute; content: " "; display: block; border-bottom: solid 3px #5472cd; bottom: -3px; width: 20%; }
 
 /** Links */
 a { color: #2a7ae2; text-decoration: none; }

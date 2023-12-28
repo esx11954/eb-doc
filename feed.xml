@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/eb-doc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/eb-doc/" rel="alternate" type="text/html" /><updated>2023-12-28T12:28:14+09:00</updated><id>http://localhost:4000/eb-doc/feed.xml</id><title type="html">EBwiki</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-28T08:49:54+09:00</published><updated>2023-12-28T08:49:54+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/eb-doc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/eb-doc/" rel="alternate" type="text/html" /><updated>2023-12-28T15:06:01+09:00</updated><id>http://localhost:4000/eb-doc/feed.xml</id><title type="html">EBwiki</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-28T08:49:54+09:00</published><updated>2023-12-28T08:49:54+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -15,7 +15,6 @@
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">MySQL Uninstall</title><link href="http://localhost:4000/eb-doc/mysql/2023/12/27/mysql-env2.html" rel="alternate" type="text/html" title="MySQL Uninstall" /><published>2023-12-27T10:01:11+09:00</published><updated>2023-12-27T10:01:11+09:00</updated><id>http://localhost:4000/eb-doc/mysql/2023/12/27/mysql-env2</id><content type="html" xml:base="http://localhost:4000/eb-doc/mysql/2023/12/27/mysql-env2.html">&lt;h2 id=&quot;インストーラの起動&quot;&gt;インストーラの起動&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -107,7 +106,6 @@
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;以上でMySQLのアンインストールは完了です！&lt;/p&gt;</content><author><name></name></author><category term="mysql" /><summary type="html">インストーラの起動</summary></entry><entry><title type="html">Java Install</title><link href="http://localhost:4000/eb-doc/java/2023/12/27/java.html" rel="alternate" type="text/html" title="Java Install" /><published>2023-12-27T10:01:11+09:00</published><updated>2023-12-27T10:01:11+09:00</updated><id>http://localhost:4000/eb-doc/java/2023/12/27/java</id><content type="html" xml:base="http://localhost:4000/eb-doc/java/2023/12/27/java.html">&lt;h2 id=&quot;インストーラのダウンロードと起動&quot;&gt;インストーラのダウンロードと起動&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;以下のリンクからAWS公式のダウンロードページにアクセスして下さい&lt;/p&gt;
 
@@ -171,7 +169,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;以上でJavaのインストールは完了です！&lt;/p&gt;</content><author><name></name></author><category term="java" /><summary type="html">インストーラのダウンロードと起動</summary></entry><entry><title type="html">MySQL Install</title><link href="http://localhost:4000/eb-doc/mysql/2023/12/26/mysql-env.html" rel="alternate" type="text/html" title="MySQL Install" /><published>2023-12-26T11:01:11+09:00</published><updated>2023-12-26T11:01:11+09:00</updated><id>http://localhost:4000/eb-doc/mysql/2023/12/26/mysql-env</id><content type="html" xml:base="http://localhost:4000/eb-doc/mysql/2023/12/26/mysql-env.html">&lt;h2 id=&quot;インストーラのダウンロードと起動&quot;&gt;インストーラのダウンロードと起動&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;以下のリンクからMySQL公式のダウンロードページにアクセスして下さい&lt;/p&gt;
 
@@ -211,7 +208,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 
 &lt;h2 id=&quot;mysql-server-setup-wizard&quot;&gt;MySQL Server Setup Wizard&lt;/h2&gt;
 
-&lt;hr /&gt;
 &lt;p&gt;利用規約確認画面&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I accept the terms in thee license Agreement&lt;/strong&gt;&lt;br /&gt;
@@ -255,7 +251,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 
 &lt;h2 id=&quot;mysql-configurator&quot;&gt;MySQL Configurator&lt;/h2&gt;
 
-&lt;hr /&gt;
 &lt;p&gt;以下の手順でインストール前にMySQLの内部的な設定を行います&lt;/p&gt;
 
 &lt;p&gt;MySQL Setup Wizard閉じると自動的に以下の画面が開くので &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
@@ -351,7 +346,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 
 &lt;h2 id=&quot;動作確認&quot;&gt;動作確認&lt;/h2&gt;
 
-&lt;hr /&gt;
 &lt;p&gt;コマンドプロンプトを立ち上げ、以下のパスに移動して下さい&lt;br /&gt;
 (x の箇所はご自身の環境に合わせて考えて下さい)&lt;br /&gt;
 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C:\Program Files\MySQL\MySQL Server 8.x\bin&lt;/code&gt;&lt;/p&gt;
@@ -365,7 +359,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;以上でMySQLのインストールは完了です！&lt;/p&gt;</content><author><name></name></author><category term="mysql" /><summary type="html">インストーラのダウンロードと起動</summary></entry><entry><title type="html">Jekyll Auto Build</title><link href="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-auto-build-env.html" rel="alternate" type="text/html" title="Jekyll Auto Build" /><published>2023-12-19T11:01:11+09:00</published><updated>2023-12-19T11:01:11+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-auto-build-env</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-auto-build-env.html">&lt;h2 id=&quot;事前準備&quot;&gt;事前準備&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;ul&gt;
   &lt;li&gt;githubアカウント&lt;/li&gt;
@@ -386,7 +379,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;環境構築&quot;&gt;環境構築&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;任意のパスに作業用フォルダを作成し、該当パスでCLI (cmd or powershell) を起動&lt;br /&gt;
 以下のコマンドを実行&lt;/p&gt;
@@ -400,7 +392,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;gemfile&quot;&gt;&lt;strong&gt;Gemfile&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.3.2&quot;  
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -436,7 +427,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;_configyml&quot;&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;以下抜粋部分を任意の値に変更&lt;br /&gt;
 &lt;strong&gt;※[★context path]部分は作成したリモートリポジトリ名と一致させる&lt;/strong&gt;&lt;/p&gt;
@@ -456,7 +446,6 @@ Amazon Correttoの場合、インストール時に勝手にパスが通りま�
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;git&quot;&gt;&lt;strong&gt;git&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;以下コマンドを実行&lt;/p&gt;
 
@@ -470,7 +459,6 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;github-リモートリポジトリ設定&quot;&gt;&lt;strong&gt;github (リモートリポジトリ設定)&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;該当リポジトリの &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Code and automation&lt;/strong&gt; &amp;gt; &lt;strong&gt;Pages&lt;/strong&gt;を開く&lt;br /&gt;
 &lt;strong&gt;Select branch&lt;/strong&gt; → &lt;strong&gt;main&lt;/strong&gt;に設定&lt;br /&gt;
@@ -488,7 +476,7 @@ git push -u origin main
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;ローカル実行&quot;&gt;&lt;strong&gt;ローカル実行&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
+
 &lt;p&gt;Jekyllプロジェクトの動作をローカルで確認したい場合は以下のコマンドを実行する&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt;  … Jekyllプロジェクトのビルド&lt;/p&gt;
@@ -500,7 +488,6 @@ git push -u origin main
 &lt;p&gt;実行後は以下URLで確認可能　　&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://127.0.0.1:4000/[baseUrl]&lt;/code&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">事前準備</summary></entry><entry><title type="html">Jekyll Deploy</title><link href="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html" rel="alternate" type="text/html" title="Jekyll Deploy" /><published>2023-12-19T11:01:11+09:00</published><updated>2023-12-19T11:01:11+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html">&lt;h2 id=&quot;事前準備&quot;&gt;事前準備&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;ul&gt;
   &lt;li&gt;githubアカウント&lt;/li&gt;
@@ -521,7 +508,6 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;環境構築&quot;&gt;環境構築&lt;/h2&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;任意のパスに作業用フォルダを作成し、該当パスでCLI (cmd or powershell) を起動&lt;br /&gt;
 以下のコマンドを実行&lt;/p&gt;
@@ -533,7 +519,6 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;gemfile&quot;&gt;&lt;strong&gt;Gemfile&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.3.2&quot;  
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -569,7 +554,6 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;_configyml&quot;&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;以下抜粋部分を任意の値に変更&lt;br /&gt;
 &lt;strong&gt;※[★context path]部分は作成したリモートリポジトリ名と一致させる&lt;/strong&gt;&lt;/p&gt;
@@ -589,7 +573,7 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;プロジェクトビルド&quot;&gt;&lt;strong&gt;プロジェクトビルド&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
+
 &lt;p&gt;Jekyllプロジェクトの動作をローカルで確認したい場合は以下のコマンドを実行する&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt;  … Jekyllプロジェクトのビルド&lt;/p&gt;
@@ -605,7 +589,6 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;git&quot;&gt;&lt;strong&gt;git&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;ビルド後、&lt;em&gt;_site&lt;/em&gt; というフォルダが生成されるので、&lt;br /&gt;
 CLIでそこに移動し、以下コマンドを実行&lt;/p&gt;
@@ -621,7 +604,6 @@ git push -u origin main
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;github-リモートリポジトリ設定&quot;&gt;&lt;strong&gt;github (リモートリポジトリ設定)&lt;/strong&gt;&lt;/h4&gt;
-&lt;hr /&gt;
 
 &lt;p&gt;該当リポジトリの &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Code and automation&lt;/strong&gt; &amp;gt; &lt;strong&gt;Pages&lt;/strong&gt;を開く&lt;br /&gt;
 &lt;strong&gt;Select branch&lt;/strong&gt; → &lt;strong&gt;main&lt;/strong&gt;に設定&lt;br /&gt;
