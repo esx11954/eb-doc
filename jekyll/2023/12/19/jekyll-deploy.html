@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Jekyll Deploy | EBwiki</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Jekyll Deploy" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="事前準備" />
+<meta property="og:description" content="事前準備" />
+<link rel="canonical" href="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html" />
+<meta property="og:url" content="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html" />
+<meta property="og:site_name" content="EBwiki" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-12-19T11:01:11+09:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Jekyll Deploy" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-12-19T11:01:11+09:00","datePublished":"2023-12-19T11:01:11+09:00","description":"事前準備","headline":"Jekyll Deploy","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html"},"url":"http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/eb-doc/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/eb-doc/feed.xml" title="EBwiki" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/eb-doc/">EBwiki</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/eb-doc/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Jekyll Deploy</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2023-12-19T11:01:11+09:00" itemprop="datePublished">Dec 19, 2023
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="事前準備">事前準備</h2>
+<hr />
+
+<ul>
+  <li>githubアカウント</li>
+  <li>新規リモートリポジトリ</li>
+  <li>git環境</li>
+  <li>ruby環境</li>
+</ul>
+
+<p><br /></p>
+
+<p>現状上記の環境がなければ以下から作成</p>
+<ul>
+  <li><a href="https://github.com/">github</a></li>
+  <li><a href="https://gitforwindows.org/">git</a></li>
+  <li><a href="https://rubyinstaller.org/downloads/">ruby</a></li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="環境構築">環境構築</h2>
+<hr />
+
+<p>任意のパスに作業用フォルダを作成し、該当パスでCLI (cmd or powershell) を起動<br />
+以下のコマンドを実行</p>
+
+<p><code class="language-plaintext highlighter-rouge">gem install jekyll bundler</code>  …必要ライブラリインストール (<strong>※初回のみ</strong>)</p>
+
+<p><code class="language-plaintext highlighter-rouge">jekyll new --skip-bundle .</code>  …Jekyllプロジェクト雛形作成</p>
+
+<p><br /></p>
+
+<h4 id="gemfile"><strong>Gemfile</strong></h4>
+<hr />
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem "jekyll", "~&gt; 4.3.2"  
+</code></pre></div></div>
+
+<p>上記を以下のように変更</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem "jekyll", "~&gt; 3.9.3"  
+</code></pre></div></div>
+
+<p><br /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># gem "github-pages", group: :jekyll_plugins
+</code></pre></div></div>
+
+<p>上記を以下のように変更</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem 'github-pages', '~&gt; 228', group: :jekyll_plugins
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p>ファイル最下部に以下を追記</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem "webrick", "~&gt; 1.8"
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p>上記が完了したら以下コマンドを実行</p>
+
+<p><code class="language-plaintext highlighter-rouge">bundle install</code>  …Gemfileを参照して依存関係を解決</p>
+
+<p><br /></p>
+
+<h4 id="_configyml"><strong>_config.yml</strong></h4>
+<hr />
+
+<p>以下抜粋部分を任意の値に変更<br />
+<strong>※[★context path]部分は作成したリモートリポジトリ名と一致させる</strong></p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">★サイトタイトル</span><span class="pi">]</span>
+<span class="na">email</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">★sample@sample.co.jp</span><span class="pi">]</span>
+<span class="na">description</span><span class="pi">:</span> <span class="pi">&gt;-</span> <span class="c1"># this means to ignore newlines until "baseurl:"</span>
+  <span class="s">Write an awesome description for your new site here. You can edit this</span>
+  <span class="s">line in _config.yml. It will appear in your document head meta (for</span>
+  <span class="s">Google search results) and in your feed.xml site description.</span>
+<span class="na">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">/[★context</span><span class="nv"> </span><span class="s">path]/"</span> <span class="c1"># the subpath of your site, e.g. /blog</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">https://[★githubアカウント名].github.io"</span> <span class="c1"># the base hostname &amp; protocol for your site, e.g. http://example.com</span>
+<span class="c1"># twitter_username: jekyllrb</span>
+<span class="na">github_username</span><span class="pi">:</span>  <span class="pi">[</span><span class="nv">★githubアカウント名</span><span class="pi">]</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h4 id="プロジェクトビルド"><strong>プロジェクトビルド</strong></h4>
+<hr />
+<p>Jekyllプロジェクトの動作をローカルで確認したい場合は以下のコマンドを実行する</p>
+
+<p><code class="language-plaintext highlighter-rouge">bundle exec jekyll build</code>  … Jekyllプロジェクトのビルド</p>
+
+<p><code class="language-plaintext highlighter-rouge">bundle exec jekyll serve --trace</code>  … ローカルで実行 (動作確認)</p>
+
+<p>ローカル実行時は以下URLで確認可能　　</p>
+
+<p><em>http://127.0.0.1:4000/[baseUrl]</em></p>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h4 id="git"><strong>git</strong></h4>
+<hr />
+
+<p>ビルド後、<em>_site</em> というフォルダが生成されるので、<br />
+CLIでそこに移動し、以下コマンドを実行</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git init
+git add .
+git commit -m "Initial GitHub pages site with Jekyll"
+git branch -M main  
+git remote add origin [リモートリポジトリURL]
+git push -u origin main
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h4 id="github-リモートリポジトリ設定"><strong>github (リモートリポジトリ設定)</strong></h4>
+<hr />
+
+<p>該当リポジトリの <strong>Settings</strong> &gt; <strong>Code and automation</strong> &gt; <strong>Pages</strong>を開く<br />
+<strong>Select branch</strong> → <strong>main</strong>に設定<br />
+<strong>Select folder</strong> → <strong>root</strong>に設定<br />
+→ <strong>Save</strong>をクリック</p>
+
+<p><br /></p>
+
+<p>設定後は以下のURLパターンで該当プロジェクトのサイトにアクセスできる</p>
+
+<p><code class="language-plaintext highlighter-rouge">https://[githuアカウント名].github.io/[リポジトリ名]/</code></p>
+
+<p><br />
+<br />
+<br /></p>
+
+
+  </div><a class="u-url" href="/eb-doc/jekyll/2023/12/19/jekyll-deploy.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/eb-doc/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">EBwiki</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">EBwiki</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/esx11954"><svg class="svg-icon"><use xlink:href="/eb-doc/assets/minima-social-icons.svg#github"></use></svg> <span class="username">esx11954</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/eb-doc/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

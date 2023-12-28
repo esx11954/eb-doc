@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/eb-doc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/eb-doc/" rel="alternate" type="text/html" /><updated>2023-12-28T08:57:00+09:00</updated><id>http://localhost:4000/eb-doc/feed.xml</id><title type="html">EBwiki</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-28T08:49:54+09:00</published><updated>2023-12-28T08:49:54+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/eb-doc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/eb-doc/" rel="alternate" type="text/html" /><updated>2023-12-28T12:28:14+09:00</updated><id>http://localhost:4000/eb-doc/feed.xml</id><title type="html">EBwiki</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-28T08:49:54+09:00</published><updated>2023-12-28T08:49:54+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/update/2023/12/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -14,4 +14,626 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">MySQL Uninstall</title><link href="http://localhost:4000/eb-doc/mysql/2023/12/27/mysql-env2.html" rel="alternate" type="text/html" title="MySQL Uninstall" /><published>2023-12-27T10:01:11+09:00</published><updated>2023-12-27T10:01:11+09:00</updated><id>http://localhost:4000/eb-doc/mysql/2023/12/27/mysql-env2</id><content type="html" xml:base="http://localhost:4000/eb-doc/mysql/2023/12/27/mysql-env2.html">&lt;h2 id=&quot;インストーラの起動&quot;&gt;インストーラの起動&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;コマンドプロンプトを立ち上げ、 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mysql --version&lt;/code&gt; を実行し、&lt;br /&gt;
+インストールされているMySQLのバージョンを確認して下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall1.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Windows上で &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MySQL&lt;/code&gt; と検索し、&lt;strong&gt;MySQL-8.x.x-winx64.msi&lt;/strong&gt; を起動します&lt;br /&gt;
+(&lt;strong&gt;8.x.x&lt;/strong&gt;の箇所は上記で確認したものと同じバージョンであることを確認して下さい)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/installer.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;もしインストーラが見つからない場合は以下のリンクから該当バージョンのインストーラをダウンロードし、それを実行しましょう&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dev.mysql.com/downloads/mysql/&quot;&gt;公式ダウンロードページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall2.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;インストーラを実行すると以下の画面が表示されるので、&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリックして次の画面に進みます&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall4.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Remove&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall5.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Remove&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall6.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;削除処理が開始されますが、別画面として以下の画面が立ち上がるので&lt;br /&gt;
+&lt;strong&gt;Remove the data directory&lt;/strong&gt; にチェックが入っていることを確認して&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall7.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Execute&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall8.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;しばらくすると以下の様に表示が変わるので、&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Finish&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall9.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;以下の画面が表示されたら&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Finish&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/uninstall_mysql/uninstall10.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;以上でMySQLのアンインストールは完了です！&lt;/p&gt;</content><author><name></name></author><category term="mysql" /><summary type="html">インストーラの起動</summary></entry><entry><title type="html">Java Install</title><link href="http://localhost:4000/eb-doc/java/2023/12/27/java.html" rel="alternate" type="text/html" title="Java Install" /><published>2023-12-27T10:01:11+09:00</published><updated>2023-12-27T10:01:11+09:00</updated><id>http://localhost:4000/eb-doc/java/2023/12/27/java</id><content type="html" xml:base="http://localhost:4000/eb-doc/java/2023/12/27/java.html">&lt;h2 id=&quot;インストーラのダウンロードと起動&quot;&gt;インストーラのダウンロードと起動&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;以下のリンクからAWS公式のダウンロードページにアクセスして下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html&quot;&gt;公式ダウンロードページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Platform&lt;/em&gt;：Windows x64&lt;br /&gt;
+&lt;em&gt;Type&lt;/em&gt;：JDK&lt;br /&gt;
+&lt;em&gt;Download Link&lt;/em&gt;：https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi&lt;/p&gt;
+
+&lt;p&gt;上記のmsiファイル(インストーラ)をダウンロードし、実行して下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/java/java1.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;インストーラを実行すると以下の画面が表示されるので &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/java/java2.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;特に変更はせず &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/java/java3.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Install&lt;/code&gt; をクリック&lt;br /&gt;
+Amazon Correttoの場合、インストール時に勝手にパスが通ります&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/java/java4.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;インストールが完了すると以下の画面が表示されるので &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Finish&lt;/code&gt; をクリックして画面を閉じます&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/java/java5.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;コマンドプロンプトを起動し、&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;java -version&lt;/code&gt; を実行してJDKのバージョンが表示されることを確認して下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/java/java6.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;以上でJavaのインストールは完了です！&lt;/p&gt;</content><author><name></name></author><category term="java" /><summary type="html">インストーラのダウンロードと起動</summary></entry><entry><title type="html">MySQL Install</title><link href="http://localhost:4000/eb-doc/mysql/2023/12/26/mysql-env.html" rel="alternate" type="text/html" title="MySQL Install" /><published>2023-12-26T11:01:11+09:00</published><updated>2023-12-26T11:01:11+09:00</updated><id>http://localhost:4000/eb-doc/mysql/2023/12/26/mysql-env</id><content type="html" xml:base="http://localhost:4000/eb-doc/mysql/2023/12/26/mysql-env.html">&lt;h2 id=&quot;インストーラのダウンロードと起動&quot;&gt;インストーラのダウンロードと起動&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;以下のリンクからMySQL公式のダウンロードページにアクセスして下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dev.mysql.com/downloads/mysql/&quot;&gt;公式ダウンロードページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;ページ遷移したら &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Select Version&lt;/code&gt;を 最新バージョン(8.x.x)に変更し&lt;br /&gt;
+&lt;strong&gt;Windows (x86, 64-bit), MSI Installer&lt;/strong&gt; をダウンロードして下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql1.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;以下画面の最下部 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;No Thanks, just start my download.&lt;/code&gt; をクリックし、&lt;br /&gt;
+インストーラをダウンロードします&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql2.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;ダウンロードが完了したら msi ファイルを実行し、 &lt;strong&gt;MySQL Setup Wizard&lt;/strong&gt; を立ち上げ、&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリックして次の画面に進みます&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql3.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mysql-server-setup-wizard&quot;&gt;MySQL Server Setup Wizard&lt;/h2&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;利用規約確認画面&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I accept the terms in thee license Agreement&lt;/strong&gt;&lt;br /&gt;
+にチェックを入れて &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql4.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;インストールパッケージの選択画面&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Typical&lt;/code&gt; をクリック
+&lt;img src=&quot;/eb-doc/images/install_mysql/mysql5.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;インストール確認画面&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Install&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql6.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Setup完了画面&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Run MySQL Configurator&lt;/strong&gt; にチェックが入っていることを確認し、 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Finish&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql7.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mysql-configurator&quot;&gt;MySQL Configurator&lt;/h2&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;以下の手順でインストール前にMySQLの内部的な設定を行います&lt;/p&gt;
+
+&lt;p&gt;MySQL Setup Wizard閉じると自動的に以下の画面が開くので &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql8.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;MySQLで使用するポート番号等の設定画面&lt;/p&gt;
+
+&lt;p&gt;特に変更はせず &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql9.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;管理ユーザパスワード等の設定画面&lt;/p&gt;
+
+&lt;p&gt;研修中に余計なトラブルを防ぐため以下の通りに設定して下さい&lt;br /&gt;
+&lt;strong&gt;MySQL Root Password&lt;/strong&gt; に &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;root&lt;/code&gt; &lt;br /&gt;
+&lt;strong&gt;Repeat Password&lt;/strong&gt; にも &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;root&lt;/code&gt; と入力し、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql10.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Windows上におけるサービス名や自動起動の設定画面&lt;/p&gt;
+
+&lt;p&gt;特に変更はせず &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql11.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;データファイルに対する権限設定&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yes, grant full access to the user running the Windows Service ~ …&lt;/strong&gt;&lt;br /&gt;
+を選択した状態で &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql12.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;サンプルデータベース作成設定画面&lt;/p&gt;
+
+&lt;p&gt;チェックは入れずに &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql13.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;設定適用画面&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Execute&lt;/code&gt; をクリックし、インストールを開始します(多少時間が掛かります)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql14.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;以下のように全てに緑色のチェックがついたらインストール完了です&lt;br /&gt;
+確認できたら &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Next&lt;/code&gt; をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql15.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;設定完了画面&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Finish&lt;/code&gt; をクリックし、&lt;strong&gt;MySQL Configurator&lt;/strong&gt; の画面を閉じます&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql16.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;動作確認&quot;&gt;動作確認&lt;/h2&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;コマンドプロンプトを立ち上げ、以下のパスに移動して下さい&lt;br /&gt;
+(x の箇所はご自身の環境に合わせて考えて下さい)&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;C:\Program Files\MySQL\MySQL Server 8.x\bin&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;移動後、&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mysql --version&lt;/code&gt; を実行し、&lt;br /&gt;
+インストールしたMySQLのバージョンが出てくることを確認して下さい&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/eb-doc/images/install_mysql/mysql17.png&quot; alt=&quot;install&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;以上でMySQLのインストールは完了です！&lt;/p&gt;</content><author><name></name></author><category term="mysql" /><summary type="html">インストーラのダウンロードと起動</summary></entry><entry><title type="html">Jekyll Auto Build</title><link href="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-auto-build-env.html" rel="alternate" type="text/html" title="Jekyll Auto Build" /><published>2023-12-19T11:01:11+09:00</published><updated>2023-12-19T11:01:11+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-auto-build-env</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-auto-build-env.html">&lt;h2 id=&quot;事前準備&quot;&gt;事前準備&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;githubアカウント&lt;/li&gt;
+  &lt;li&gt;新規リモートリポジトリ&lt;/li&gt;
+  &lt;li&gt;git環境&lt;/li&gt;
+  &lt;li&gt;ruby環境&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;現状上記の環境がなければ以下から作成&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitforwindows.org/&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubyinstaller.org/downloads/&quot;&gt;ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;環境構築&quot;&gt;環境構築&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;任意のパスに作業用フォルダを作成し、該当パスでCLI (cmd or powershell) を起動&lt;br /&gt;
+以下のコマンドを実行&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install jekyll bundler&lt;/code&gt;  …必要ライブラリインストール&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git init&lt;/code&gt;  …ローカルリポジトリ作成&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --skip-bundle .&lt;/code&gt;  Jekyllプロジェクト雛形作成&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;gemfile&quot;&gt;&lt;strong&gt;Gemfile&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.3.2&quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;上記を以下のように変更&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 3.9.3&quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# gem &quot;github-pages&quot;, group: :jekyll_plugins
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;上記を以下のように変更&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &apos;github-pages&apos;, &apos;~&amp;gt; 228&apos;, group: :jekyll_plugins
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ファイル最下部に以下を追記&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;webrick&quot;, &quot;~&amp;gt; 1.8&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;上記が完了したら以下コマンドを実行&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;  …Gemfileを参照して依存関係を解決&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;_configyml&quot;&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;以下抜粋部分を任意の値に変更&lt;br /&gt;
+&lt;strong&gt;※[★context path]部分は作成したリモートリポジトリ名と一致させる&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;★サイトタイトル&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;★sample@sample.co.jp&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;&amp;gt;-&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# this means to ignore newlines until &quot;baseurl:&quot;&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;Write an awesome description for your new site here. You can edit this&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;line in _config.yml. It will appear in your document head meta (for&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;Google search results) and in your feed.xml site description.&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;baseurl&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/[★context&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;path]/&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# the subpath of your site, e.g. /blog&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;https://[★githubアカウント名].github.io&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# the base hostname &amp;amp; protocol for your site, e.g. http://example.com&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# twitter_username: jekyllrb&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;github_username&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;★githubアカウント名&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;git&quot;&gt;&lt;strong&gt;git&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;以下コマンドを実行&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add .
+git commit -m &quot;Initial GitHub pages site with Jekyll&quot;
+git branch -M main  
+git remote add origin [リモートリポジトリURL]
+git push -u origin main
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;github-リモートリポジトリ設定&quot;&gt;&lt;strong&gt;github (リモートリポジトリ設定)&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;該当リポジトリの &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Code and automation&lt;/strong&gt; &amp;gt; &lt;strong&gt;Pages&lt;/strong&gt;を開く&lt;br /&gt;
+&lt;strong&gt;Select branch&lt;/strong&gt; → &lt;strong&gt;main&lt;/strong&gt;に設定&lt;br /&gt;
+&lt;strong&gt;Select folder&lt;/strong&gt; → &lt;strong&gt;root&lt;/strong&gt;に設定&lt;br /&gt;
+→ &lt;strong&gt;Save&lt;/strong&gt;をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;上記を設定する事により今後同リポジトリにpushしたタイミングで作成したJekyllプロジェクトのビルド及びデプロイジョブがgithub上で実行され、以下のURLパターンで該当プロジェクトのサイトにアクセスできる&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://[githuアカウント名].github.io/[リポジトリ名]/&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ローカル実行&quot;&gt;&lt;strong&gt;ローカル実行&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;p&gt;Jekyllプロジェクトの動作をローカルで確認したい場合は以下のコマンドを実行する&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt;  … Jekyllプロジェクトのビルド&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve --trace&lt;/code&gt;  … ローカルで実行&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;実行後は以下URLで確認可能　　&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://127.0.0.1:4000/[baseUrl]&lt;/code&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">事前準備</summary></entry><entry><title type="html">Jekyll Deploy</title><link href="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html" rel="alternate" type="text/html" title="Jekyll Deploy" /><published>2023-12-19T11:01:11+09:00</published><updated>2023-12-19T11:01:11+09:00</updated><id>http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy</id><content type="html" xml:base="http://localhost:4000/eb-doc/jekyll/2023/12/19/jekyll-deploy.html">&lt;h2 id=&quot;事前準備&quot;&gt;事前準備&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;githubアカウント&lt;/li&gt;
+  &lt;li&gt;新規リモートリポジトリ&lt;/li&gt;
+  &lt;li&gt;git環境&lt;/li&gt;
+  &lt;li&gt;ruby環境&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;現状上記の環境がなければ以下から作成&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitforwindows.org/&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubyinstaller.org/downloads/&quot;&gt;ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;環境構築&quot;&gt;環境構築&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;任意のパスに作業用フォルダを作成し、該当パスでCLI (cmd or powershell) を起動&lt;br /&gt;
+以下のコマンドを実行&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install jekyll bundler&lt;/code&gt;  …必要ライブラリインストール (&lt;strong&gt;※初回のみ&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --skip-bundle .&lt;/code&gt;  …Jekyllプロジェクト雛形作成&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;gemfile&quot;&gt;&lt;strong&gt;Gemfile&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.3.2&quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;上記を以下のように変更&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 3.9.3&quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# gem &quot;github-pages&quot;, group: :jekyll_plugins
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;上記を以下のように変更&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &apos;github-pages&apos;, &apos;~&amp;gt; 228&apos;, group: :jekyll_plugins
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;ファイル最下部に以下を追記&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &quot;webrick&quot;, &quot;~&amp;gt; 1.8&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;上記が完了したら以下コマンドを実行&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;  …Gemfileを参照して依存関係を解決&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;_configyml&quot;&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;以下抜粋部分を任意の値に変更&lt;br /&gt;
+&lt;strong&gt;※[★context path]部分は作成したリモートリポジトリ名と一致させる&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;★サイトタイトル&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;★sample@sample.co.jp&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;&amp;gt;-&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# this means to ignore newlines until &quot;baseurl:&quot;&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;Write an awesome description for your new site here. You can edit this&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;line in _config.yml. It will appear in your document head meta (for&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;Google search results) and in your feed.xml site description.&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;baseurl&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/[★context&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;path]/&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# the subpath of your site, e.g. /blog&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;https://[★githubアカウント名].github.io&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# the base hostname &amp;amp; protocol for your site, e.g. http://example.com&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;# twitter_username: jekyllrb&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;github_username&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;★githubアカウント名&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;プロジェクトビルド&quot;&gt;&lt;strong&gt;プロジェクトビルド&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;p&gt;Jekyllプロジェクトの動作をローカルで確認したい場合は以下のコマンドを実行する&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt;  … Jekyllプロジェクトのビルド&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve --trace&lt;/code&gt;  … ローカルで実行 (動作確認)&lt;/p&gt;
+
+&lt;p&gt;ローカル実行時は以下URLで確認可能　　&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;http://127.0.0.1:4000/[baseUrl]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;git&quot;&gt;&lt;strong&gt;git&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;ビルド後、&lt;em&gt;_site&lt;/em&gt; というフォルダが生成されるので、&lt;br /&gt;
+CLIでそこに移動し、以下コマンドを実行&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init
+git add .
+git commit -m &quot;Initial GitHub pages site with Jekyll&quot;
+git branch -M main  
+git remote add origin [リモートリポジトリURL]
+git push -u origin main
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;github-リモートリポジトリ設定&quot;&gt;&lt;strong&gt;github (リモートリポジトリ設定)&lt;/strong&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;該当リポジトリの &lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Code and automation&lt;/strong&gt; &amp;gt; &lt;strong&gt;Pages&lt;/strong&gt;を開く&lt;br /&gt;
+&lt;strong&gt;Select branch&lt;/strong&gt; → &lt;strong&gt;main&lt;/strong&gt;に設定&lt;br /&gt;
+&lt;strong&gt;Select folder&lt;/strong&gt; → &lt;strong&gt;root&lt;/strong&gt;に設定&lt;br /&gt;
+→ &lt;strong&gt;Save&lt;/strong&gt;をクリック&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;設定後は以下のURLパターンで該当プロジェクトのサイトにアクセスできる&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://[githuアカウント名].github.io/[リポジトリ名]/&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">事前準備</summary></entry></feed>
